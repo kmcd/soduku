@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "soduku"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Soduku solver in Ruby}
+    gem.description = %Q{Soduku solver in Ruby using search and contraint propagation}
     gem.email = "keith@dancingtext.com"
     gem.homepage = "http://github.com/kmcd/soduku"
     gem.authors = ["Keith McDonnell"]

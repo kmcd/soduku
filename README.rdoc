@@ -1,6 +1,24 @@
-= soduku
+= sodoku
 
-Description goes here.
+A sodoku solver in Ruby using constraint propagation and search.
+
+== Terminology
+
+Unit: row column or box
+Peers: box
+
+== Solution
+
+Propagating Constraints
+Search
+
+== Test cases
+
+== Usage
+
+== Refereneces
+
+http://norvig.com/sudoku.html
 
 == Note on Patches/Pull Requests
  
